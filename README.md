@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Samiul Hasan
-### A passionate frontend developer from Bangladesh
+### A passionate full stack developer from Bangladesh
 
 - 💬 Ask me about **React, JavaScript, Python, HTML, CSS,**
 - 📫 How to reach me **samiulxhasan650@gmail.com**
